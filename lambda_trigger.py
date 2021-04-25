@@ -13,7 +13,7 @@ customer_table = 'customer'
 product_table = 'product'
 address_table = 'address'
 order_table = 'order'
-order_status = 'order-status'
+order_status = 'order_status'
 
 
 def lambda_handler(event, context):
